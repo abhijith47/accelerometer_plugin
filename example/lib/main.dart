@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Accelerometer Demo',
+      title: 'Accelerometer',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         useMaterial3: true,
